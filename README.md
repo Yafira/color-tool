@@ -4,6 +4,8 @@
 
 ---------
 
+![gif](color.gif)
+
 ### JS concepts covered:
   - DOM manipulation
   - HEX and RGB colors
